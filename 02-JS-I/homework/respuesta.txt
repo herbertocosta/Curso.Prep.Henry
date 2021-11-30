@@ -1,0 +1,5 @@
+Una variable es un espacio reservado, con un nombre (Ej. mivariable), en la memoria de la computadora que sirve para almacenar datos o resultado de operaciones que desees que memorice la computadora
+Un String es una sucesion de caracteres que estando encerrado entre comillas, simples o dobles, es considerado una cadena de caracteres
+Las funciones son un conjunto de instruciones en codigo de programación que se agrupan con el objetivo de no tener que repetir el mismo conjunto repetidas veces solo se requiere llamar a la funcion por su nombre y eventualmente pasarle argumentos
+Las declaraciones if son tambien llamados condicionales que permite a un programa ejecutar un conjunto determinado de instrucciones según la evaluacion de la condición sea verdadera o falsa
+Los valores booleanos son un tipo especial de datos que solo puede tener dos valores posibles verdadero o falso
