@@ -1,0 +1,4 @@
+For es una de las instrucciones para realizar ciclos. Los ciclos son conjunto de instrucciones que se ejecutan una cantidad deefinida de veces de acuerdo a que se cumpla o no determinado criterio
+&& es un operador logico tambien llamado AND y su funcion es determinar al valor de verdad de una condicion y solamente su valor es verdadero cuando las condiciones individuales a ambos lados del && son verdaderas
+|| es un operador logico tambien llamado OR y su funcion es determinar al valor de verdad de una condicion y solamente su valor es falso cuando las condiciones individuales a ambos lados del || son falsas
+! es un operador logico de negación cuando es utilizado se están negando el valor de verdad de la condición que precede (Ej !a==b estamos diciendo cuando no sean iguales)
