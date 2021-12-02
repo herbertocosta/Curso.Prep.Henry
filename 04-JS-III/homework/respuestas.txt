@@ -1,0 +1,3 @@
+Un Array es un tipo de dato no nativo como seria string o int que  tiene la particularidad de permitir alamacenar todo tipo de dato, funciones, arreglos, nulos, undefined, etc. 
+Cada dato almacenado en un arreglo puede ser accedido por su indice teniendo en cuenta que el indice del primer elemento de un array es 0 y por lo tanto el indice del último elemento
+sera la cantidad de elementos almacenado menos 1
